@@ -934,7 +934,7 @@ a,a:hover,a:focus,a:visited{
     transform: translateX(-50%);
     width:207px;
     height: 651px;
-    background-image: url('../images/service_shape.png');
+    /* background-image: url('../images/service_shape.png'); */
     bottom: -35px;
 }
 .as_service_single .as_service_img:after {
