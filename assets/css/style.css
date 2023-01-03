@@ -988,6 +988,7 @@ a,a:hover,a:focus,a:visited{
 .as_service_box .as_icon svg{
     fill: var(--secondary-color);
     transition: none;
+    fill: #ffffff;
 }
 .as_service_box:hover .as_icon svg{
     fill: #ffffff;
