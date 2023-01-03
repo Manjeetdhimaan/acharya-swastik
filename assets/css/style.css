@@ -3289,6 +3289,10 @@ form.d_block {
     }
 }
 @media (max-width:991px){
+    .desktop-only{
+        display: none;
+    }
+
     .as_heading {
         font-size: 28px;
     }
